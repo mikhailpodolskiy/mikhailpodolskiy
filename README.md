@@ -64,5 +64,7 @@
 
 ## Вклад в Open Source
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ваш_username&theme=dark&background=000000)](ссылка_на_ваш_профиль)
+![](https://www.codewars.com/users/mikhailpodolsky/badges/large)
 
 > Не забудьте заменить 'ваш_username' на ваше реальное имя пользователя на GitHub и обновить ссылки на социальные сети, иконки и статистику.
+
