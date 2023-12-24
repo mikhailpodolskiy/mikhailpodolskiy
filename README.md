@@ -1,35 +1,7 @@
-# Привет, я Mikhail 👋
+# Привет, я Михаил 👋
 
-## Обо мне
-
-- 🔭 Я сейчас работаю над ...
-- 🌱 Сейчас я учусь ...
-- 👯 Я хочу сотрудничать над ...
-- 🤔 Я ищу помощь с ...
-- 💬 Спросите меня о ...
-- 📫 Как со мной связаться: ...
-- 😄 Мои увлечения: ...
-- ⚡ Факт о мне: ...
-
-## Мои навыки
-
-### SOFT SKILL
-- Деловая этикет
-- Эмоциональный интеллект
-- Усидчивость
-- Стремление к саморазвитию
-- Критическое мышление
-- Насмотренность, чувство вкуса
-- Знание и умение применять линейную алгебру в разработке
-- Тайм менеджемент
-- Работа в команде
-  
-### BONUS SKILL
-
-![Skill1](URL_иконки)
-![Skill2](URL_иконки)
-... добавьте столько навыков, сколько хотите
-
+#### Начинающий аналитик и junior Python
+- :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bogesar@gmail.com)
 ## Технологии
 
 <div>
@@ -58,6 +30,31 @@
   <img src="https://sbfactory.ru/cdx1/wp-content/uploads/2021/11/BrowserPreview_tmp.gif" title="Content Downloader" alt="Content Downloader" width="40" height="40"/>&nbsp;
   
 </div>
+
+## Статистика GitHub
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=mikhailpodolskiy&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikhailpodolskiy&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+## Статистика Codewars
+![codewars](https://www.codewars.com/users/mikhailpodolskiy/badges/large)
+
+## Связаться со мной
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-podolskiy-1a67a3107/)
+
+## Мои последние Pet-проекты
+<!-- BLOG-POST-LIST:START -->
+- [Консольное приложение в процессе](https://github.com/mikhailpodolskiy/console_app)
+<!-- BLOG-POST-LIST:END -->
 
 ## Пройденные курсы
 
@@ -103,43 +100,6 @@
   </tbody>
 </table>
 
-## Статистика GitHub
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=mikhailpodolskiy&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikhailpodolskiy&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
-## Статистика Codewars
-![codewars](https://www.codewars.com/users/mikhailpodolskiy/badges/large)
-
-
-## Связаться со мной
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-podolskiy-1a67a3107/)
-... добавьте другие социальные сети по желанию
-
-## Мои последние Pet-проекты
-<!-- BLOG-POST-LIST:START -->
-линк на линке
-- [Название поста 1](ссылка_на_пост)
-- [Название поста 2](ссылка_на_пост)
-<!-- BLOG-POST-LIST:END -->
-
-## Благодарности и сертификаты
-- 🏆 Награда 1
-- 🏆 Награда 2
-... и так далее
-
-## Вклад в Open Source
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ваш_username&theme=dark&background=000000)](ссылка_на_ваш_профиль)
-![](https://www.codewars.com/users/mikhailpodolsky/badges/large)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mikhailpodolskiy)
 
