@@ -1,9 +1,9 @@
 # Привет, я Михаил 👋
 
-#### Начинающий аналитик и junior Python
+#### Начинающий аналитик и junior разработчик Python
 - :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bogesar@gmail.com)
-## Технологии
 
+## Технологии
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git/GitHub" alt="Git/GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;
@@ -28,7 +28,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" title="Sublime Text" alt="Sublime Text" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://sbfactory.ru/cdx1/wp-content/uploads/2021/11/BrowserPreview_tmp.gif" title="Content Downloader" alt="Content Downloader" width="40" height="40"/>&nbsp;
-  
 </div>
 
 ## Статистика GitHub
@@ -47,8 +46,7 @@
 ## Статистика Codewars
 ![codewars](https://www.codewars.com/users/mikhailpodolskiy/badges/large)
 
-## Связаться со мной
-
+## Социальные сети
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-podolskiy-1a67a3107/)
 
 ## Мои последние Pet-проекты
@@ -57,7 +55,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Пройденные курсы
-
 <table cellpadding="7">
   <thead>
     <tr>
@@ -100,6 +97,7 @@
   </tbody>
 </table>
 
+<br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mikhailpodolskiy)
 
