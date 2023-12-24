@@ -24,14 +24,6 @@
 - Тайм менеджемент
 - Работа в команде
   
-### HARD SKILL
-- HTML5, CSS3
-- Увренное применение системы контроля версий Git/GitHub
-- Уверенные знание SQL работа с MySQL на уровне подзапросов и нормальных форм
-- Уверенные знания Python, на уровне структурной парадигмы
-- Начальные знания Bootstrap
-- 
-
 ### BONUS SKILL
 
 ![Skill1](URL_иконки)
@@ -41,14 +33,32 @@
 ## Технологии
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git/GitHub" alt="Git/GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
+  <img src="https://www.1c-bitrix.ru/images/content_common/logo/1c-bitrix-logo.svg" title="1С Битрикс" alt="1С Битрикс" width="40" height="40"/>&nbsp;
  
 </div>
+
+## Инструменты
+<div>
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg?_gl=1*1vi9ftf*_ga*MjA1Njc3NzM2LjE3MDMzNjE3NTM.*_ga_9J976DJZ68*MTcwMzQzNjE1MS4yLjEuMTcwMzQzNjE3NS4wLjAuMA..&_ga=2.224966622.579617629.1703361753-205677736.1703361753" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Google Colab" alt="Google Colab" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" title="Google Таблицы" alt="Google Таблицы" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" title="PhpMyAdmin" alt="PhpMyAdmin" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/78/XAMPP_logo.svg" title="Xampp" alt="Xampp" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" title="HeidiSQL" alt="HeidiSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  
+</div>
+
 ## Статистика GitHub
+
 <table>
   <tr>
     <td>
