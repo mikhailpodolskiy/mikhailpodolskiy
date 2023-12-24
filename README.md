@@ -42,7 +42,7 @@
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true)
 
 ## Статистика Codewars
-[![Codewars](https://www.codewars.com/users/mikhailpodolsky/badges/large)] (https://www.codewars.com/users/mikhailpodolskiy)
+![] ([https://www.codewars.com/users/mikhailpodolskiy](https://www.codewars.com/users/mikhailpodolsky/badges/large)
 
 
 ## Связаться со мной
