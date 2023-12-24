@@ -52,10 +52,56 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" title="PhpMyAdmin" alt="PhpMyAdmin" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/7/78/XAMPP_logo.svg" title="Xampp" alt="Xampp" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" title="HeidiSQL" alt="HeidiSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" title="Sublime Text" alt="Sublime Text" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://sbfactory.ru/cdx1/wp-content/uploads/2021/11/BrowserPreview_tmp.gif" title="Content Downloader" alt="Content Downloader" width="40" height="40"/>&nbsp;
   
 </div>
+
+## Пройденные курсы
+
+<table cellpadding="7">
+  <thead>
+    <tr>
+      <th>Курсы</th>
+      <th>Дата</th>
+      <th>Ссылка на сертификат</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>GeekBrains, курс «HTML/CSS»</td>
+      <td>2018</td>
+      <td><a href="https://gb.ru/certificates/420264">https://gb.ru/certificates/420264</a></td>
+    </tr>
+    <tr>
+      <td>1С-Битрикс, контент-менеджер</td>
+      <td>2021</td>
+      <td><a href="https://dev.1c-bitrix.ru/learning/certificate.php?user=4577104&course=34&student=6a3c7c34ab4713cea51e091e25039bf2">https://dev.1c-bitrix.ru/learning/certificate</a></td>
+    </tr>
+    <tr>
+      <td>1С-Битрикс, Администратор. Базовый</td>
+      <td>2021</td>
+      <td><a href="https://dev.1c-bitrix.ru/learning/certificate.php?user=4577104&course=35&student=5a43e7225b47eb328192a78b54ea9926">https://dev.1c-bitrix.ru/learning/certificate</a></td>
+    </tr>
+    <tr>
+      <td>GeekBrains, «Основы баз данных»</td>
+      <td>2023</td>
+      <td><a href="https://gb.ru/certificates/2596821">https://gb.ru/certificates/2596821</a></td>
+    </tr>
+    <tr>
+      <td>SQL Academy</td>
+      <td>2023</td>
+      <td><a href="https://sql-academy.org/check-certificate/6574addd69851d00409962f6">https://sql-academy.org/check-certificate</a></td>
+    </tr>
+    <tr>
+      <td>Школа программной инженерии, Основы программирования на языке Python</td>
+      <td>-2024</td>
+      <td><a href="https://seschool.ru/python">https://seschool.ru/python</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Статистика GitHub
 
@@ -95,6 +141,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ваш_username&theme=dark&background=000000)](ссылка_на_ваш_профиль)
 ![](https://www.codewars.com/users/mikhailpodolsky/badges/large)
 
-> Не забудьте заменить 'ваш_username' на ваше реальное имя пользователя на GitHub и обновить ссылки на социальные сети, иконки и статистику.
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mikhailpodolskiy)
 
 
