@@ -41,8 +41,12 @@
 ## Статистика GitHub
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true)
 
+## Статистика Codewars
+[![Codewars](https://www.codewars.com/users/mikhailpodolsky/badges/large)] (https://www.codewars.com/users/mikhailpodolskiy)
+
+
 ## Связаться со мной
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](ссылка_на_ваш_профиль)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ссылка_на_ваш_линкедин)
 ... добавьте другие социальные сети по желанию
 
