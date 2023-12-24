@@ -47,7 +47,7 @@
 
 ## Связаться со мной
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ссылка_на_ваш_линкедин)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-podolskiy-1a67a3107/)
 ... добавьте другие социальные сети по желанию
 
 ## Мои последние Pet-проекты
