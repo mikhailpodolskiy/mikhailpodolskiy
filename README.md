@@ -30,6 +30,12 @@
   <img src="https://sbfactory.ru/cdx1/wp-content/uploads/2021/11/BrowserPreview_tmp.gif" title="Content Downloader" alt="Content Downloader" width="40" height="40"/>&nbsp;
 </div>
 
+## Мои проекты
+<!-- BLOG-POST-LIST:START -->
+- [Парсеры/Parsers](https://github.com/mikhailpodolskiy/Parsers)
+- [Консольное приложение в процессе](https://github.com/mikhailpodolskiy/console_app)
+<!-- BLOG-POST-LIST:END -->
+
 ## Статистика GitHub
 
 <table>
@@ -49,10 +55,7 @@
 ## Социальные сети
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-podolskiy-1a67a3107/)
 
-## Мои последние Pet-проекты
-<!-- BLOG-POST-LIST:START -->
-- [Консольное приложение в процессе](https://github.com/mikhailpodolskiy/console_app)
-<!-- BLOG-POST-LIST:END -->
+
 
 ## Пройденные курсы
 <table cellpadding="7">
