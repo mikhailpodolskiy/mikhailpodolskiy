@@ -1,6 +1,6 @@
 # Привет, я Михаил 👋
 
-#### Начинающий аналитик и junior разработчик Python
+#### Начинающий аналитик и junior-разработчик Python
 - :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bogesar@gmail.com)
 
 ## Технологии
@@ -33,6 +33,7 @@
 ## Мои проекты
 <!-- BLOG-POST-LIST:START -->
 - [Парсеры/Parsers](https://github.com/mikhailpodolskiy/Parsers)
+- [Простое GUI приложение для заметок, одним файлом](https://github.com/mikhailpodolskiy/Projects/blob/main/notes.py)
 - [Консольное приложение в процессе](https://github.com/mikhailpodolskiy/console_app)
 <!-- BLOG-POST-LIST:END -->
 
