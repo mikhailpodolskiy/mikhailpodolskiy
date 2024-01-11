@@ -53,6 +53,9 @@
 ## Статистика Codewars
 ![codewars](https://www.codewars.com/users/mikhailpodolskiy/badges/large)
 
+## Статистика Leetcode
+![Leetcode Stats](https://leetcard.jacoblin.cool/Mikhail_Podoloskiy)
+
 ## Социальные сети
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-podolskiy-1a67a3107/)
 
